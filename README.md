@@ -1,0 +1,2 @@
+# iracing
+iRacing Config settings
