@@ -1,0 +1,56 @@
+---
+CalibrationInfo:
+ DeviceList:
+ - DeviceName: 'Simucube 2 Pro'
+   InstanceGUID: '{86B05110-C00B-11EF-8004-444553540000}'
+   AxisList:
+   - Axis: 0
+     AxisName: 'X Axis'
+     CalibMin: 0
+     CalibCenter: 32779
+     CalibMax: 65535
+ - DeviceName: 'P1000'
+   InstanceGUID: '{FEC867C0-C009-11EF-8002-444553540000}'
+   AxisList:
+   - Axis: 0
+     AxisName: 'Z Rotation'
+     CalibMin: 0
+     CalibCenter: 0
+     CalibMax: 4095
+   - Axis: 1
+     AxisName: 'Y Rotation'
+     CalibMin: 0
+     CalibCenter: 0
+     CalibMax: 4095
+ - DeviceName: 'FANATEC ClubSport Wheel Base V2'
+   InstanceGUID: '{4920DC30-C777-11EE-8001-444553540000}'
+   AxisList:
+   - Axis: 1
+     AxisName: 'Brake'
+     CalibMin: 0
+     CalibCenter: 65535
+     CalibMax: 65535
+   - Axis: 2
+     AxisName: 'Accelerator'
+     CalibMin: 0
+     CalibCenter: 65535
+     CalibMax: 65535
+   - Axis: 3
+     AxisName: 'Wheel Axis'
+     CalibMin: 815
+     CalibCenter: 32741
+     CalibMax: 65027
+ - DeviceName: 'Bluetooth LE XINPUT compatible input device'
+   InstanceGUID: '{F85A8EC0-97D4-11EF-8008-444553540000}'
+   AxisList:
+   - Axis: 1
+     AxisName: 'X Axis'
+     CalibMin: 0
+     CalibCenter: 32358
+     CalibMax: 65535
+   - Axis: 4
+     AxisName: 'Z Axis'
+     CalibMin: 128
+     CalibCenter: 32768
+     CalibMax: 65408
+...
